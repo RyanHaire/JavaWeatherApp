@@ -10,7 +10,7 @@ package finalproject;
  * @author Ryan
  */
 public class WeatherApi {
-    private String apiKey = "698741fd9d862b20bf3811a2fcde86a5";
+    private String apiKey = "insert-key";
     
     public WeatherApi(){
         
